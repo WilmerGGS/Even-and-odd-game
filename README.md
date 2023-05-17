@@ -1,2 +1,2 @@
-# game-even-odd
-The classic game even and odd  have amazing adventure
+# Even-and-odd-game
+The classic even and odd game. Go ahead and give it a try.
